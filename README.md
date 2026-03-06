@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hetavi%20Panchotia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- <h1 align="center">Hi 👋 I'm Hetavi Panchotia</h1> -->
-
+<!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Future+Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech"/>
 </p>
@@ -35,39 +34,52 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/in_the_bluess?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8"/>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Skills Progress
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c"/>
+<p align="center">
+
+<img src="https://progress-bar.dev/85/?title=Problem%20Solving&width=500"/>
+<img src="https://progress-bar.dev/80/?title=Data%20Structures%20%26%20Algorithms&width=500"/>
+<img src="https://progress-bar.dev/78/?title=JavaScript&width=500"/>
+<img src="https://progress-bar.dev/75/?title=React%20Development&width=500"/>
+<img src="https://progress-bar.dev/70/?title=Backend%20Development&width=500"/>
+
 </p>
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/in_the_bluess?theme=dark&font=Nunito&ext=contest"/>
+
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=in_the_bluess&theme=dark"/>
+
 </p>
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+---
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hetavi-Panchotia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetavi-Panchotia&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -76,6 +88,42 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Hetavi-Panchotia&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hetavi-Panchotia&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Hetavi-Panchotia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Hetavi-Panchotia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=leetcode-solutions&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Hetavi-Panchotia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=react-projects&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Hetavi-Panchotia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=node-backend&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 ---
@@ -104,6 +152,10 @@
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+<a href="https://www.sololearn.com/en/profile/35603665">
+<img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Hetavi-Panchotia">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
@@ -124,6 +176,12 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 <p align="center">
