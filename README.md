@@ -92,42 +92,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hetavi-Panchotia&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Hetavi-Panchotia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Hetavi-Panchotia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=leetcode-solutions&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Hetavi-Panchotia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=react-projects&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Hetavi-Panchotia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hetavi-Panchotia&repo=node-backend&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -179,10 +143,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
