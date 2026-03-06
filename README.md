@@ -37,20 +37,72 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c" />
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Core%20Languages-0f2027?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend%20Development-2c5364?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Backend%20Development-0f2027?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Databases-2c5364?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-0f2027?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 Skills Progress
+# 🧠 Skills & Expertise
 
 <p align="center">
 
-<img src="https://progress-bar.dev/85/?title=Problem%20Solving&width=500"/>
-<img src="https://progress-bar.dev/80/?title=Data%20Structures%20%26%20Algorithms&width=500"/>
-<img src="https://progress-bar.dev/78/?title=JavaScript&width=500"/>
-<img src="https://progress-bar.dev/75/?title=React%20Development&width=500"/>
-<img src="https://progress-bar.dev/70/?title=Backend%20Development&width=500"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-238636?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-8250df?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API%20Development-f85149?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database%20Design-0969da?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Version%20Control-f0883e?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetavi-Panchotia&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
