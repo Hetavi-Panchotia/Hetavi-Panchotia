@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hetavi%20Panchotia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Hetavi Panchotia</h1>
+<!-- <h1 align="center">Hi 👋 I'm Hetavi Panchotia</h1> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Future+Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech"/>
@@ -137,19 +137,6 @@
 </a>
 
 </p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-> “First solve the problem, then write the code.”  
-> — John Johnson
-
-</p>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
