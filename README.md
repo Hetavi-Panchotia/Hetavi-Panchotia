@@ -41,10 +41,6 @@
 <img src="https://leetcard.jacoblin.cool/in_the_bluess?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
-<p align="center">
-<img src="https://leetcode-stats-six.vercel.app/?username=in_the_bluess&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 🛠️ Tech Stack
