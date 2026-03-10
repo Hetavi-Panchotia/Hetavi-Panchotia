@@ -100,6 +100,47 @@
 
 ---
 
+<!-- LeetCode Section -->
+
+<h2 align="center">🧠 LeetCode Journey</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved-234%20Problems-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-50%20Days-orange?style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">🐍 LeetCode Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/leetcode-snake/output/leetcode-snake.svg" alt="LeetCode Snake Animation"/>
+</p>
+
+---
+
+<h3 align="center">⚡ Difficulty Breakdown</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-🟢-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-🟡-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-🔴-red?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Consistency > Intensity  
+<br>
+💻 Practicing DSA daily to become a better Software Engineer
+</p>
+
+---
+
 # 🧠 LeetCode Stats
 
 <p align="center">
