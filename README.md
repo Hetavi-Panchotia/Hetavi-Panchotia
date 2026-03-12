@@ -34,48 +34,26 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c" />
-
+### 👩‍💻 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Core%20Languages-0f2027?style=for-the-badge"/>
+### ⚡ Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+### 🛠 Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Frontend%20Development-2c5364?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Backend%20Development-0f2027?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Databases-2c5364?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-0f2027?style=for-the-badge"/>
+### 🔧 Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
