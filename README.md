@@ -94,14 +94,6 @@
 
 ---
 
-# 🐍 LeetCode Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HetaviPanchotia/HetaviPanchotia/output/leetcode-snake-dark.svg" alt="LeetCode Snake Animation"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
