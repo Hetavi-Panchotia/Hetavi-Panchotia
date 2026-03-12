@@ -82,13 +82,13 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/in_the_bluess?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/in_the_bluess?theme=dark&font=Nunito&ext=contest" width="500"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=in_the_bluess&theme=dark"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=in_the_bluess&theme=dark" width="500"/>
 
 </p>
 
